@@ -14,6 +14,6 @@
     "docs" : "https://github.com/IMSGlobal/LTI-Sample-Tool-Provider-PHP"
   },
   "require" : {
-    "IMSGlobal/LTI" : "^3.0.0"
+    "imsglobal/lti" : "^3.0.0"
   }
 }
